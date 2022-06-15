@@ -4,6 +4,8 @@ weight: 20
 header_menu: true
 ---
 
+![Tech Power](img/techpower-on.jpg)
+
 I started off life my life as a BBC Radio outside broadcast vehicle in the year
 2000. I was sold in 2013 and came to belong to a Hospital Radio station where I
 was still used as an outside broadcast vehicle.
